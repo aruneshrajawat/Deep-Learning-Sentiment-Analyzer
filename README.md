@@ -6,7 +6,7 @@
 
 🔥 Live Demo
 
-👉 
+👉 https://deep-learning-sentiment-analyzer-uw95trdik2fhfmowvj9yse.streamlit.app/
 
 ---
 
