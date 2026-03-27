@@ -14,6 +14,7 @@ from nltk.stem import PorterStemmer
 # NLTK Setup
 # -------------------------------
 nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 
 # -------------------------------
